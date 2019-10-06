@@ -1,0 +1,92 @@
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csproj.CoreCompileInputs.cache
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cache
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cs
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfoInputs.cache
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfo.cs
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.deps.json
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.json
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.dev.json
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorTargetAssemblyInfo.cache
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+G:\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.deps.json
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.json
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.dev.json
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfoInputs.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfo.cs
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#.NH\Desktop\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.deps.json
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.json
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.dev.json
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csproj.CoreCompileInputs.cache
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cache
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cs
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfoInputs.cache
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfo.cs
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorTargetAssemblyInfo.cache
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+E:\Validation\WithValidationCore\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.deps.json
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.json
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.dev.json
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csproj.CoreCompileInputs.cache
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cache
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cs
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfoInputs.cache
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfo.cs
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorTargetAssemblyInfo.cache
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+F:\Final Project Latest Update\Update01_03092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.deps.json
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.json
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#\Desktop\Update01_06092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.deps.json
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.json
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#\Desktop\Update01_08092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.deps.json
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.json
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\bin\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csprojAssemblyReference.cache
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.dll
+C:\Users\idb_c#\Desktop\Update01_09092019\OnlineShoppingCoreApi\OnlineShoppingCoreApi\obj\Debug\netcoreapp2.2\OnlineShoppingCoreApi.pdb
